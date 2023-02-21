@@ -11,6 +11,7 @@ public static void main(String[] args) {
 // how to write prime numbers code 
 /*
  * git important commands
+ * temporary directory
  */
 
  /*
